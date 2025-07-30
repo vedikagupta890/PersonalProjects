@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Desktop/.vscode"
+		},
+		{
+			"path": "../../../../Desktop/My_Practice_File"
+		},
+		{
+			"path": "../../../../Desktop/GSSoC'25"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "React-Vite"
+	}
+}
